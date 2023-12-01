@@ -66,10 +66,6 @@ class Trebuchet{
          
          }
          
-         
-         
-         
-         
          System.out.println(firstNumber + secondNumber);
          total += Integer.parseInt(firstNumber + secondNumber);
                
